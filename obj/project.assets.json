@@ -664,11 +664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\WelcomeService\\WelcomeService.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\webservice-template\\WelcomeService.csproj",
       "projectName": "WelcomeService",
-      "projectPath": "C:\\Users\\User\\Desktop\\project\\WelcomeService\\WelcomeService.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\project\\webservice-template\\WelcomeService.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\project\\WelcomeService\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\project\\webservice-template\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
