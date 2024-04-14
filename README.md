@@ -7,6 +7,9 @@
 ## 找尋自己的IPV4 (區網的URL要帶IPV4)
 ![findIP](https://github.com/weitsunglin/webservice-template/blob/main/findIP.jpg)
 
+## 啟動WebService 
+![how_to_use](https://github.com/weitsunglin/webservice-template/blob/main/how_to_use.jpg)
+
 ## 手機&本機就可使用了
 
 ![weatherforecast_mobile](https://github.com/weitsunglin/webservice-template/blob/main/weatherforecast_mobile.jpg)
